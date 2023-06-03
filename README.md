@@ -14,7 +14,7 @@ A full-stack template, based on Turborepo + pnpm workspace.
 To build all apps and packages, run the following command:
 
 ```shell
-cd Pancake
+cd ts-fullstack
 pnpm run build
 ```
 
@@ -23,6 +23,6 @@ pnpm run build
 To develop all apps and packages, run the following command:
 
 ```shell
-cd Pancake
+cd ts-fullstack
 pnpm run dev
 ```
