@@ -1,0 +1,21 @@
+{
+  "parser": "babel-eslint",
+  // "extends": [
+  //   "custom"
+  // ],
+  // "env": {
+  //   "node": true,
+  //   "mocha": true
+  // },
+  // "ecmaFeatures": {
+  //   "arrowFunctions": true
+  // },
+  // "parserOptions": {
+  //   "ecmaVersion": 8
+  // },
+  // "plugins": [
+  //   "babel"
+  // ],
+  "ignorePatterns": ["**/public/**/*.js", "**/proto/**/*.js","**/dist/**/*.js", "**/lib/**/*.js"],
+  "rules": {}
+}
